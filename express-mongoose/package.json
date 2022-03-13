@@ -13,7 +13,7 @@
 	  "mongodb", 
 	  "mongoose"
   ],
-  "author": "Sam Hurenkamp",
+  "author": "Hampus Andersson",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.15"
