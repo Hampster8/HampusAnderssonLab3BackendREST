@@ -1,0 +1,25 @@
+{
+  "name": "express-mongoose",
+  "version": "1.0.0",
+  "description": "Practice MongoDB with mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node app.js",
+	"dev": "nodemon app.js"
+  },
+  "keywords": [
+	  "express", 
+	  "mongodb", 
+	  "mongoose"
+  ],
+  "author": "Sam Hurenkamp",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4"
+  }
+}
